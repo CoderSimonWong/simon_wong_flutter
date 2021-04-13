@@ -1,4 +1,4 @@
-# simon_wong_flutter
+# simonwong_flutter
 
 A new Flutter project.
 
